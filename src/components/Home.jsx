@@ -12,7 +12,7 @@ const Home = () => {
         <form className='form'>
           <h2>Create Account</h2>
           <div className='socialLinks'>
-            <button><img src={Google} alt="Image" />Sign up with Google</button>
+            <button><img src={Google} alt="" />Sign up with Google</button>
             <button><img src={facebook} alt="" />Sign up with Facebook</button>
           </div>
         </form>
